@@ -1,6 +1,5 @@
 # Arbitrage using flash loans
 
-JUhnXQ76s?t=371
 
 Flash loans allow users to borrow instantly a large sum of money without any collateral, as long as the borrowed money is returned within the same transaction. In this repo, AAVE flash loans are being used to execute the same arbitrage logic as seen in the youtube video by Finematics.
 
